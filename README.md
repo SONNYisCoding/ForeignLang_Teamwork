@@ -337,7 +337,6 @@ ForeignLang/
 | Nguyen Minh Triet | Frontend Dev | UI/UX Implementation, AI Integration |
 | Le Minh Huy | Backend Dev | API Development |
 | Van Quang Truong | Backend Dev, QA/Testing | Quality Assurance |
-| Team Member 5 | Design | UI/UX Design |
 
 > *FPT University — EXE101 Course — Spring 2026*
 
